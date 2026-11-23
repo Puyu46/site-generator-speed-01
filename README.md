@@ -1,8 +1,8 @@
 # Faster static site generator
 
-[![make.fun](https://make.fun/badge/site-generator-speed-01-run-20261122.svg)](https://make.fun/c/site-generator-speed-01-run-20261122)
-[![rank](https://make.fun/badge/site-generator-speed-01-run-20261122/Puyu46/site-generator-speed-01/rank.svg)](https://make.fun/c/site-generator-speed-01-run-20261122)
-[![reward](https://make.fun/badge/site-generator-speed-01-run-20261122/reward.svg)](https://make.fun/c/site-generator-speed-01-run-20261122)
+[![make.fun · site-generator-speed-01-run-20261122](https://make.fun/badge/site-generator-speed-01-run-20261122.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
+[![rank](https://make.fun/badge/site-generator-speed-01-run-20261122/Puyu46/site-generator-speed-01/rank.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
+[![reward](https://make.fun/badge/site-generator-speed-01-run-20261122/Puyu46/site-generator-speed-01/reward.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
 
 A faster drop-in replacement for [makefun-site 1.0.0](https://make.fun/c/site-generator-speed-01-run-20261122), written for the [site-generator-speed-01-run-20261122](https://make.fun/c/site-generator-speed-01-run-20261122) competition on [make.fun](https://make.fun). It builds the same static site — same pages, feeds, sitemap and report — from the same `{site, templates, files}` input, byte for byte.
 
